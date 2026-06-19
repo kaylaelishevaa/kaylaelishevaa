@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi! I'm Kayla 👋
 
-<!--
-**kaylaelishevaa/kaylaelishevaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+CS/AI undergrad at Monash University. Software engineer at Coldwell Banker Indonesia,
+where I design and ship production AI systems that agents use daily; a WhatsApp
+lead-qualification agent, RAG pipelines, and internal tooling over a ~10k-listing CRM.
 
-Here are some ideas to get you started:
+I care about backend systems that hold up under real users, not demos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stack
+**Languages:** TypeScript · SQL
+**Backend:** NestJS · Node.js · Fastify · PostgreSQL · Prisma · Redis
+**Async:** BullMQ · background workers
+**AI/LLM:** Anthropic (Claude) · OpenAI · Google Gemini · RAG · tool-calling · finite-state conversation
+**Integrations:** WhatsApp (Qontak BSP) · Lark/Feishu · AWS S3
+**Infra:** Docker · CI/CD · DigitalOcean 
+
