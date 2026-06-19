@@ -12,6 +12,6 @@ I care about backend systems that hold up under real users, not demos.
 **Backend:** NestJS · Fastify · FastAPI · Node.js · PostgreSQL · Prisma · Redis
 **Frontend:** Next.js · React · Tailwind
 **Async:** BullMQ · WebSockets · background workers
-**AI/LLM:** Anthropic (Claude) · OpenAI · Google Gemini · RAG · tool-calling · MCP
+**AI/LLM:** Anthropic (Claude) · OpenAI · Google Gemini · tool-calling · MCP
 **Infra:** Docker · GitHub Actions · nginx · AWS S3 · DigitalOcean
 
