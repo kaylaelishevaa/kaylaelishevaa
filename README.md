@@ -8,10 +8,10 @@ lead-qualification agent, RAG pipelines, and internal tooling over a ~10k-listin
 I care about backend systems that hold up under real users, not demos.
 
 ### Stack
-**Languages:** TypeScript · SQL
-**Backend:** NestJS · Node.js · Fastify · PostgreSQL · Prisma · Redis
-**Async:** BullMQ · background workers
-**AI/LLM:** Anthropic (Claude) · OpenAI · Google Gemini · RAG · tool-calling · finite-state conversation
-**Integrations:** WhatsApp (Qontak BSP) · Lark/Feishu · AWS S3
-**Infra:** Docker · CI/CD · DigitalOcean 
+**Languages:** TypeScript · Python · SQL
+**Backend:** NestJS · Fastify · FastAPI · Node.js · PostgreSQL · Prisma · Redis
+**Frontend:** Next.js · React · Tailwind
+**Async:** BullMQ · WebSockets · background workers
+**AI/LLM:** Anthropic (Claude) · OpenAI · Google Gemini · RAG · tool-calling · MCP
+**Infra:** Docker · GitHub Actions · nginx · AWS S3 · DigitalOcean
 
