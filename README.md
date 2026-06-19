@@ -3,7 +3,7 @@
 ### About Me
 Computer Science undergrad at Monash University. Software engineer at Coldwell Banker Indonesia,
 where I design and ship production AI systems that agents use daily; a WhatsApp
-lead-qualification agent, RAG pipelines, and internal tooling over a ~10k-listing CRM.
+lead-qualification agent, and internal tooling over a ~10k-listing CRM.
 
 I care about backend systems that hold up under real users, not demos.
 
