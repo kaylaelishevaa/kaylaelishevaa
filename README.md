@@ -1,7 +1,7 @@
 ## Hi! I'm Kayla 👋
 
 ### About Me
-CS undergrad at Monash University. Software engineer at Coldwell Banker Indonesia,
+Computer Science undergrad at Monash University. Software engineer at Coldwell Banker Indonesia,
 where I design and ship production AI systems that agents use daily; a WhatsApp
 lead-qualification agent, RAG pipelines, and internal tooling over a ~10k-listing CRM.
 
