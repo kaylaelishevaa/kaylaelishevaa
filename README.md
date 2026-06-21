@@ -8,10 +8,11 @@ lead-qualification agent, and internal tooling over a ~10k-listing CRM.
 I care about backend systems that hold up under real users, not demos.
 
 ### Stack
-**Languages:** TypeScript · Python · SQL
-**Backend:** NestJS · Fastify · FastAPI · Node.js · PostgreSQL · Prisma · Redis
-**Frontend:** Next.js · React · Tailwind
-**Async:** BullMQ · WebSockets · background workers
-**AI/LLM:** Anthropic (Claude) · OpenAI · Google Gemini · tool-calling · MCP
-**Infra:** Docker · GitHub Actions · nginx · AWS S3 · DigitalOcean
+
+- **Languages:** TypeScript · Python · SQL
+- **Backend:** NestJS · Fastify · FastAPI · Node.js · MySQL · PostgreSQL · Prisma · Redis
+- **Frontend:** Next.js · React · Tailwind · Ant Design
+- **Async:** BullMQ · WebSockets · background workers
+- **AI/LLM:** Anthropic (Claude) · OpenAI · Google Gemini · tool-calling · MCP
+- **Infra:** Docker · GitHub Actions · nginx · Cloudflare · AWS S3 · DigitalOcean
 
