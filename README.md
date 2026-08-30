@@ -1,10 +1,11 @@
 ## Hi! I'm Kayla 👋
 
 ### About Me
-Computer Science undergrad at Monash University. Software engineer at Coldwell Banker Indonesia,
-where I design and operate production AI systems the agent team uses daily — a multi-agent
-pipeline that turns WhatsApp conversations into a trustworthy CRM, guarded by a deterministic
-watchdog, plus internal tooling over a ~10k-listing database.
+Computer Science undergrad at Monash University. I recently wrapped a software engineering
+internship at Coldwell Banker Indonesia, where I designed and operated production AI systems
+the agent team used daily — a multi-agent pipeline that turns WhatsApp conversations into a
+trustworthy CRM, guarded by a deterministic watchdog, plus internal tooling over a
+~10k-listing database.
 
 I care about backend systems that hold up under real users, not demos.
 
